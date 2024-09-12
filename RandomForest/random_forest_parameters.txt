@@ -1,0 +1,4 @@
+no. of trees = 100
+criterion/impurity = "gini"
+max_features/featureSubsetStrategy = "sqrt"
+max_depth = 10
