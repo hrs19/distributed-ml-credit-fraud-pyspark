@@ -59,7 +59,7 @@ To run the Logistic Regression scripts on the Discovery cluster at Northeastern 
    You need access to the Discovery cluster. You can connect via SSH:
    
    ```sh
-   ssh <your_username>@discovery.rc.northeastern.edu
+   ssh <your_username>@login.discovery.neu.edu
    ```
 
 2. **Load Required Modules**
