@@ -76,7 +76,7 @@ To run the Logistic Regression scripts on the Discovery cluster at Northeastern 
    Upload the script you wish to run to the Discovery cluster using `scp`:
 
    ```sh
-   scp SerialLR.py <your_username>@discovery.rc.northeastern.edu:/work/<your_username>/
+   scp SerialLR.py <your_username>@xfer.discovery.neu.edu:/work/<your_username>/
    ```
 
 4. **Create a Job Submission Script**
